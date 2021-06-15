@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/estoes-challenge-frontend/static/css/main.5081f347.chunk.css",
+    "main.js": "/estoes-challenge-frontend/static/js/main.a0ac007f.chunk.js",
+    "main.js.map": "/estoes-challenge-frontend/static/js/main.a0ac007f.chunk.js.map",
+    "runtime-main.js": "/estoes-challenge-frontend/static/js/runtime-main.30b6c065.js",
+    "runtime-main.js.map": "/estoes-challenge-frontend/static/js/runtime-main.30b6c065.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/estoes-challenge-frontend/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.74c8ea86.chunk.js": "/estoes-challenge-frontend/static/js/2.74c8ea86.chunk.js",
+    "static/js/2.74c8ea86.chunk.js.map": "/estoes-challenge-frontend/static/js/2.74c8ea86.chunk.js.map",
+    "static/js/3.462d9127.chunk.js": "/estoes-challenge-frontend/static/js/3.462d9127.chunk.js",
+    "static/js/3.462d9127.chunk.js.map": "/estoes-challenge-frontend/static/js/3.462d9127.chunk.js.map",
+    "index.html": "/estoes-challenge-frontend/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/estoes-challenge-frontend/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5081f347.chunk.css.map": "/estoes-challenge-frontend/static/css/main.5081f347.chunk.css.map",
+    "static/js/2.74c8ea86.chunk.js.LICENSE.txt": "/estoes-challenge-frontend/static/js/2.74c8ea86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b6c065.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.74c8ea86.chunk.js",
+    "static/css/main.5081f347.chunk.css",
+    "static/js/main.a0ac007f.chunk.js"
+  ]
+}
